@@ -1,3 +1,4 @@
+//Task1//
 #include<stdio.h>
 
 int main(){
@@ -9,7 +10,7 @@ int main(){
 	return 0;
 	
 }
-///
+//Task2//
 #include<stdio.h>
 
 int main(){
@@ -22,7 +23,7 @@ int main(){
     
 	
 }
-///
+//Task3//
 #include<stdio.h>
 
 int main(){
@@ -34,7 +35,7 @@ int main(){
     
 	
 }
-///
+//Task4//
 #include<stdio.h>
 
 int main(){
@@ -46,7 +47,7 @@ int main(){
 
 	
 }
-///
+//Task5//
 #include<stdio.h>
 
 int main(){
@@ -58,7 +59,7 @@ int main(){
 
 	
 }
-///
+//Task6//
 #include<stdio.h>
 
 int main(){
@@ -74,7 +75,7 @@ int main(){
 
 	
 }
-///
+//Task7//
 #include<stdio.h>
 
 int main(){
