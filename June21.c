@@ -1,3 +1,4 @@
+//Task6//
 #include<stdio.h>
 
 int main(){
@@ -8,7 +9,7 @@ int main(){
     printf("Your ASCII value is: %d" , character);
     return 0;
 }
-///
+//Task7//
 #include<stdio.h>
 
 int main(){
@@ -19,7 +20,7 @@ int main(){
     printf("Size of double: %ld " , sizeof(double));
     return 0;
 }
-///
+//Task8//
 #include<stdio.h>
 
 int main(){
@@ -35,7 +36,7 @@ int main(){
     printf("The result is: %d" , res);
     return 0;
 }
-///
+//Task9//
 #include<stdio.h>
 
 int main(){
@@ -48,7 +49,7 @@ int main(){
     printf("The cube is: %d" , res);
     return 0;
 }
-///
+//Task10//
 #include<stdio.h>
 
 int main(){
@@ -67,7 +68,7 @@ int main(){
     return 0;
     
 }
-///
+//Task11//
 #include<stdio.h>
 #define PI 3.14
 
@@ -81,7 +82,7 @@ int main(){
     printf("The result is: %f" , res);
     return 0;
 }
-///
+//Task12//
 #include<stdio.h>
 
 int main(){
