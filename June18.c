@@ -1,3 +1,4 @@
+//Task1//
 #include<stdio.h>
 
 int main(){
@@ -9,7 +10,7 @@ int main(){
 	printf("The result is: %c\n" , letter);
 	return 0;
 }
-///
+//Task2//
 #include<stdio.h>
 
 int main(){
@@ -21,7 +22,7 @@ int main(){
 	printf("The result is %c\n" , letter);
 	return 0;
 }
-///
+//Task3//
 #include<stdio.h>
 
 int main(){
@@ -36,7 +37,7 @@ int main(){
 	printf("The result is %d\n" , res);
 	return 0;
 }
-///
+//Task4//
 #include<stdio.h>
 
 int main(){
@@ -51,7 +52,7 @@ int main(){
 	printf("The result of Area is %d\n" , Area);
 	return 0;
 }
-///
+//Task5//
 #include<stdio.h>
 
 int main(){
