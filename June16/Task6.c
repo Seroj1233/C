@@ -2,7 +2,7 @@
 
 int main(){
     
-  float x = 0;
+  	float x = 0;
 	float y = 0;
 	printf("Input the first number");
 	scanf("%f" , &x);
