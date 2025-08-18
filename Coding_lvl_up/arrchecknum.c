@@ -13,6 +13,7 @@ int main(){
 	for(int i = 0; i < SIZE; ++i){
 		if(arr[i] == num){
 			printf("You have that number in array: %d\n" , num);
+			return 0;
 		}
 	}
 	return 0;
